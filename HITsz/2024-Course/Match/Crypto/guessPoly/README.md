@@ -1,0 +1,8 @@
+# guessPoly
+
+**Catogory:** Dynamic docker
+
+**Difficulty:** Easy
+
+**Flag:** `flag{number to base to get it in the noisy rain}`
+
