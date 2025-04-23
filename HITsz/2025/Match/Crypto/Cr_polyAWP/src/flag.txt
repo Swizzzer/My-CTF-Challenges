@@ -1,0 +1,1 @@
+HITCTF{ECC with iacr 2021 1610 [TEAM_HASH]}
