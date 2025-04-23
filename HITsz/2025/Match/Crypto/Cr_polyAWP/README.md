@@ -1,6 +1,6 @@
 # polyAWP
 
-**Author:** Swizzer
+**Author:** Copied from hxp 2021
 
 **Difficulty:** Hardcore
 

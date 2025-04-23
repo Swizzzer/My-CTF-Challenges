@@ -1,6 +1,6 @@
 # polyFAMAS
 
-**Author:** Swizzer
+**Author:** Copied from imaginaryCTF round53
 
 **Difficulty:** Medium/Hard
 

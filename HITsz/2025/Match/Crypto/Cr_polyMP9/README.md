@@ -1,6 +1,6 @@
 # polyMP9
 
-**Author:** Swizzer
+**Author:** Copied from idekCTF 2021
 
 **Difficulty:** Medium
 
