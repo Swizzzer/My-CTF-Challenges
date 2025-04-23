@@ -1,6 +1,6 @@
 # maze
 
-**Author:** hashkitten & Swizzer & oldkingOK
+**Author:** Copied from DownUnderCTF 2023
 
 **Difficulty:** Medium
 
