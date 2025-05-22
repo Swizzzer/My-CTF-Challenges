@@ -1,4 +1,4 @@
-from shared.polynomial import fast_polynomial_gcd
+from shared.polynomial import fast_polynomial_gcd # https://github.com/jvdsn/crypto-attacks
 from Crypto.Util.number import *
 import itertools
 from tqdm import tqdm
